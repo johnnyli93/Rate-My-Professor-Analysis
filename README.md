@@ -21,3 +21,7 @@ Here, we'll consider "good" professors as ones with an average rating of 4 or hi
 We see that the biggest quality disparity is "gives good feedback"; over 55% of good professors and a little over 10% of bad professors have this quality. On the opposite end, the quality that nearly both good and bad professors share almost equally is "Tests? Not many", sitting at around 20%. 
 
 What else can be noticed here? It seems that qualities that measure likeablilty and personality ("Amazing Lectures", "Would Take Again", "Respected By Students", etc.) see the highest disparity between good and bad professors. On the other hand, qualities that measure workload ("Beware Of Group Projects", "Lectures Are Long", etc.) appear less often for both good and bad professors, and see a smaller disparity. So if you're a professor who's trying to increase your average rating, try being more likeable (easier said than done). Giving less tests and quizzes wouldn't hurt, either.
+
+
+__NEXT__
+![alt text](Graphs/Top_50_Schools_With_Highest_Average_Professor_Hotness_Rating.png)
